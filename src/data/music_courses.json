@@ -28,7 +28,7 @@
       "price": 119.99,
       "instructor": "Emily Johnson",
       "isFeatured": true,
-      "image": "/courses/vocalist.jpg"
+      "image": "/courses/vocal.jpg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 129.99,
       "instructor": "Mike Brown",
       "isFeatured": false,
-      "image": "/courses/drumming.jpg"
+      "image": "/courses/drum.jpg"
     },
     {
       "id": 5,
@@ -78,7 +78,7 @@
       "price": 169.99,
       "instructor": "Luke Harris",
       "isFeatured": true,
-      "image": "/courses/music-prod.jpg"
+      "image": "/courses/electro-music.jpg"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 179.99,
       "instructor": "Grace Lee",
       "isFeatured": false,
-      "image": "/courses/classical-music.jpg"
+      "image": "/courses/classical-music-history.jpg"
     },
     {
       "id": 10,

@@ -4,6 +4,7 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import MusicSchoolTestimonialCards from "@/components/TestimonialCards";
 import UpcommingWebinars from "@/components/UpcommingWebinars";
 import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <MusicSchoolTestimonialCards />
       <UpcommingWebinars />
       <Instructors />
+      <Footer />
     </main>
   );
 }

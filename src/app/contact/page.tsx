@@ -1,6 +1,7 @@
 "use client";
 import React, { FormEvent, useState } from "react";
 import { BackgroundBeams } from "@/components/ui/background-beams";
+import Footer from "@/components/Footer";
 
 function page() {
   const [email, setEmail] = useState("");
@@ -53,6 +54,7 @@ function page() {
           </button>
         </form>
       </div>
+      <Footer />
     </div>
   );
 }

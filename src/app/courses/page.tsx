@@ -4,6 +4,7 @@ import Image from "next/image";
 import courseData from "@/data/music_courses.json";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import { Button } from "@/components/ui/moving-border";
+import Footer from "@/components/Footer";
 
 function page() {
   return (
@@ -66,6 +67,7 @@ function page() {
           </CardContainer>
         ))}
       </div>
+      <Footer />
     </div>
   );
 }
